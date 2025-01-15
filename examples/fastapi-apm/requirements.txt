@@ -10,7 +10,7 @@ elasticsearch[async]==7.13.1
 fastapi==0.65.1
 frozenlist==1.5.0
 h11==0.12.0
-idna==3.2
+idna==3.7
 multidict==5.1.0
 propcache==0.2.1
 pydantic==1.8.2
